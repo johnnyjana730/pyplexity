@@ -16,7 +16,7 @@ install_requires = \
  'nltk>=3.6.7,<4.0.0',
  'pandas>=1.1.5,<3.2.0',
  'storable>=1.2.4,<2.0.0',
- 'typer[all]>=0.4.0,<0.5.0',
+ 'typer[all]>=0.4.0,<1.5.0',
  'warcio>=1.7.4,<2.0.0']
 
 entry_points = \
